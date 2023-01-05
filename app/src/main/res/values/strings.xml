@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">testExam</string>
+    <string name="enter_new_books">Enter New Books</string>
+    <string name="book_name">Book Name</string>
+    <string name="author_name">Author Name</string>
+    <string name="pages">Pages</string>
+    <string name="available">available?</string>
+    <string name="add">Add</string>
+    <string name="save_all">Save All</string>
+</resources>
